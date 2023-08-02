@@ -1,3 +1,4 @@
 # Simple React JS Calculator having Basic Functionalities
 
-![IMG](https://github.com/SamiRasheed/Simple-React-JS-calculator/assets/129277243/0219c9f6-9265-41a1-8e9b-aba198ef08f8)
+
+![IMG](https://github.com/SamiRasheed/2_Simple-React-JS-calculator/assets/129277243/dc8ae7f0-c7c9-4268-87c2-643a82c9138a)
